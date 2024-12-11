@@ -20,8 +20,8 @@
   * If you do not use one of the following websites, then leave it empty
   * e.g. since I don't blog on dev.to or have Twitter my configs are like this:
     * `github_username`: **longpdo**
-    * `codepen_username`: **longpdo**
-    * `dev_username`:
+    * `htb_id`: **longpdo**
+    * `thm_username`:
     * `linkedin_username`: **longpdo**
     * `twitter_username`:
 
