@@ -17,45 +17,67 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Sysdig
+  title-url: https://sysdig.com/
+  date: Jan 2024 - Present
+  subtitle: Security Analyst
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: CloudSecurity
+    - tag: HostSecurity
+    - tag: ContainerSecurity
+    - tag: PolicyManagement
+    - tag: WorkloadProtection
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: IMF x UCAV
+  title-url: https://www.imf-formacion.com/masters-profesionales/master-seguridad-informatica
+  date: 2023 - 2024
+  subtitle: M.Sc. CiberSecurity
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: INE Security
+  title-url: https://certs.ine.com/0203e99f-31b3-4f63-b395-159f7ac042b1#acc.J13syXMx
+  date: 2023 - 2024
+  subtitle: eJPT Certification
+  timeline-side: left
+
+- title: DHM
+  title-url: https://digitalhm.com/
+  date: Sept 2023 - Jan 2024
+  subtitle: Red Team Lead
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Enumeration
+    - tag: VulnerabilityAnalysis
+    - tag: Exploitation
+    - tag: Phishing
+    - tag: Malware
+    - tag: Leadership
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
+- title: DHM
+  title-url: https://digitalhm.com/
+  date: Jun 2023 - Sept 2023
+  subtitle: Red Team Operator
+  tags:
+    - tag: OSINT
+    - tag: Enumeration
+    - tag: VulnerabilityAnalysis
+    - tag: OWASP
+  timeline-side: right
+
+- title: NoLogin
+  title-url: https://www.nologin.es/en/
+  date: Jul 2022 - Sept 2022
+  subtitle: CiberSecurity Engineer as Intern
+  tags:
+    - tag: Monitoring
+    - tag: IncidentResponse
+    - tag: Scripting
+  timeline-side: right
+
+
+- title: University of Zaragoza 
+  title-url: https://estudios.unizar.es/estudio/ver?id=148
+  date: 2019 - 2023
   subtitle: B.A. Computer Science
   timeline-side: left
