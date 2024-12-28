@@ -59,7 +59,7 @@ show_timeline_card: true
 timeline_title: My Journey
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://github.com/p3n4x0/p3n4x0/blob/main/Isma_CV_EN_compressed.pdf
+cv_download_link: https://github.com/p3n4x0/p3n4x0/blob/main/Isma_CV_EN.pdf
 
 # PROJECTS SECTION
 # show_projects_card:
