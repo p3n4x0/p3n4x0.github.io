@@ -18,6 +18,12 @@
 #   timeline-side: right
 
 - title: INE Security
+  title-url: https://certs.ine.com/6e81056d-c350-42b9-8a06-fc481867baec#acc.Pzn3HrNc
+  date: Jan 2025
+  subtitle: eWPT Certification
+  timeline-side: left
+
+- title: INE Security
   title-url: https://certs.ine.com/0203e99f-31b3-4f63-b395-159f7ac042b1#acc.J13syXMx
   date: Apr 2024
   subtitle: eJPT Certification
